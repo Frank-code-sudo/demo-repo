@@ -13,3 +13,4 @@ This is it.
 
 
 1. Open indexi.html in your browser
+2. And this is it here! Pull
