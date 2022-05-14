@@ -7,3 +7,9 @@ This is the read me file for more info!
 This is it.
 
 ## I have added something here!
+
+
+## Local Development
+
+
+1. Open indexi.html in your browser
